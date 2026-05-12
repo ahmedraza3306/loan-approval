@@ -95,7 +95,7 @@ Loan Approved ✅
 
 * Use larger real-world dataset
 * Improve accuracy using Random Forest
-* Build a web interface (Flask/Streamlit)
+* Build a web interface ex (Flask/Streamlit)
 * Add visualization and feature importance
 
 ---
