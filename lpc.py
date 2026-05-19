@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 
-
+#sample pre defined data 
 data = pd.DataFrame({
     "Income":[25000,40000,60000,30000,80000,50000,20000,70000,65000,45000],
     "LoanAmount":[200000,150000,300000,100000,400000,250000,120000,350000,280000,220000],
