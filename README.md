@@ -9,7 +9,7 @@ The model uses a **Decision Tree Classifier**, which provides simple and interpr
 
 ---
 
-## 🚀 Features
+## Features
 
 * Takes real-time user input
 * Predicts loan approval status
