@@ -2,7 +2,6 @@
 #20521
 
 ## 📌 Overview
-
 This project is a Machine Learning-based system that predicts whether a loan application will be **approved or rejected** based on applicant details such as income, loan amount, CIBIL score, employment status, and existing loans.
 
 The model uses a **Decision Tree Classifier**, which provides simple and interpretable decision-making.
