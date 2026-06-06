@@ -6,8 +6,6 @@ This project is a Machine Learning-based system that predicts whether a loan app
 
 The model uses a **Decision Tree Classifier**, which provides simple and interpretable decision-making.
 
----
-
 ## Features
 
 * Takes real-time user input
