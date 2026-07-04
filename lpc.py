@@ -18,7 +18,6 @@ print("Dataset:")
 print(data)
 
 
-
 X = data.drop("Loan_Status", axis=1)
 y = data["Loan_Status"]
 
@@ -29,17 +28,14 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 
-
 model = DecisionTreeClassifier()
 
 model.fit(X_train, y_train)
 
 
-
 pred = model.predict(X_test)
 
 print("\nModel Accuracy:", accuracy_score(y_test, pred))
-
 
 
 print("\nEnter Applicant Details")
