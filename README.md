@@ -14,7 +14,6 @@ The model uses a **Decision Tree Classifier**, which provides simple and interpr
 * Uses Decision Tree algorithm
 * Simple and easy-to-understand implementation
 
----
 
 ## 🛠️ Technologies Used
 
